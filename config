@@ -1,0 +1,11 @@
+Host poseidon-dev1
+    HostName poseidon-dev1.pgh.petuum.com
+    User hao
+
+Host haopc
+    HostName haopc.sailing.cs.cmu.edu
+    User hao
+
+Host orca
+    HostName ops.orca.pdl.cmu.edu
+    User hzhang2
